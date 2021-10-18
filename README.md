@@ -16,4 +16,6 @@ Choose between an harmonic, quartic, sinusoidal or custom built energy landscape
 
 ### Simulation output
 
-![simNRJDiff_Figure2](https://user-images.githubusercontent.com/58071484/137707404-58e4e83a-afaf-4015-bbdd-ccb9bb040450.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/58071484/137707404-58e4e83a-afaf-4015-bbdd-ccb9bb040450.png">
+</p> 
