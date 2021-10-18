@@ -6,7 +6,7 @@ In this simulation package several types of one-dimensional energy landscapes ar
 
 ### Selection of the energy landscape
 
-Choose between an harmonic, quartic, sinusoidal or custom built energy landscape by selecting the model function in the main script.
+Choose between an harmonic, quartic, sinusoidal or custom built energy landscape by selecting the corrsponding model function in the main script. Feed the model function with the necessary features of the energy landscape.
 
 ![simNRJDiff_Figure1](https://user-images.githubusercontent.com/58071484/137707374-0c9cbd84-a050-4cb5-a97e-8b089bccb3c6.png)
 
