@@ -15,7 +15,7 @@ Choose between an harmonic, quartic, sinusoidal or custom built energy landscape
 ![simNRJDiff_Figure1](https://user-images.githubusercontent.com/58071484/137720336-c499caca-533c-4e00-8c06-2379855c89da.png)
 
 ### Simulation output
-In the end of the simulation, the script shows the reaction coordinate histogram (grey bars, left panel) collected from all trajectories. The similarity of the histogram with the probability density function, *p*(*x*), derived from the energy landscape, proves if the landscape is sufficently sampled, hence \Delta *t* is small enough.
+In the end of the simulation, the script shows the reaction coordinate histogram (grey bars, left panel) collected from all trajectories. The similarity of the histogram with the probability density function, *p*(*x*), derived from the energy landscape, proves if the landscape is sufficently sampled, hence $\delta \Delta$ *t* is small enough.
 
 the whole energy landscape. In the right panel the passage time histogram between *q*<sub>L</sub> and *q*<sub>R</sub> is shown. The bottom panel depicts the last state trajectory.
 
