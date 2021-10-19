@@ -21,4 +21,4 @@ After performing the simulation, the reaction coordinate histogram (grey bars, l
   <img src="https://user-images.githubusercontent.com/58071484/137707404-58e4e83a-afaf-4015-bbdd-ccb9bb040450.png">
 </p> 
 
-### Note: In the script above I make use of the optimization function *fminsearchbnd* to generate a custom energy landscape. The author of *fminsearchbnd* is John D'Errico, who released the function 2006 on FileExchange - Mathworks (https://de.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon?s_tid=srchtitle).
+**Note:** In the script above I make use of the optimization function *fminsearchbnd* to generate a custom energy landscape. The author of *fminsearchbnd* is John D'Errico, who released the function 2006 on FileExchange - Mathworks (https://de.mathworks.com/matlabcentral/fileexchange/8277-fminsearchbnd-fminsearchcon?s_tid=srchtitle).
