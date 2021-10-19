@@ -5,7 +5,7 @@ In literature, the heterogeneous conformations of a biomolecule (e.g. protein or
 In this simulation package, several types of one-dimensional energy landscapes are provided such as an harmonic, quartic, sinusoidal and custom built potential. State trajectories are simulated by Langevin dynamics using the gradient of the selected energy landscape, grad(*G*(*x*)), and the diffusion constant, *D*. The script also evaluates the passage time between two reaction coordinates, enabling for example, the detection of the transition path time, which denotes the time needed to overcome the energy barrier.
 
 <p align="center">
-   <img src="https://user-images.githubusercontent.com/58071484/137738308-d6881a79-d1a1-4096-99b3-b96e57e12e9e.JPG" height=60>
+   <img src="https://user-images.githubusercontent.com/58071484/137738308-d6881a79-d1a1-4096-99b3-b96e57e12e9e.JPG" height=50>
 </p>
 
 ### Selection of the energy landscape
