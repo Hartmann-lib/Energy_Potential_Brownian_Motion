@@ -15,7 +15,7 @@ Choose between an harmonic, quartic, sinusoidal or custom built energy landscape
 ![simNRJDiff_Figure1](https://user-images.githubusercontent.com/58071484/137720336-c499caca-533c-4e00-8c06-2379855c89da.png)
 
 ### Simulation output
-After performing the simulation, the reaction coordinate histogram (grey bars, left panel) collected from all trajectories is plotted. The similarity of the histogram with the probability density function, *p*(*x*), derived from the energy landscape (black line), shows if the landscape is sufficently sampled, hence &#916;*t* is small enough. In the right panel the passage time histogram between *q*<sub>L</sub> and *q*<sub>R</sub> is plotted. The bottom panel depicts the last state trajectory. All generated trajectories can be saved in a directory by setting *boolSave* to 1 (see folder data\\).
+After performing the simulation, the reaction coordinate histogram (grey bars, left panel) collected from all trajectories is plotted. The similarity of the histogram with the probability density function, *p*(*x*), derived from the energy landscape (black line), shows if the landscape is sufficently sampled, hence &#916;*t* is small enough. In the right panel the passage time histogram between *q*<sub>L</sub> and *q*<sub>R</sub> is plotted. The bottom panel depicts the last state trajectory. All generated trajectories can be saved in a directory by setting *boolSave* to 1 (see folder "data\\").
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/58071484/137707404-58e4e83a-afaf-4015-bbdd-ccb9bb040450.png">
